@@ -3,3 +3,7 @@ title: "Organising Team"
 ---
 
 Meet the organising team:
+
+Person 1
+
+Person 2
