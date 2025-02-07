@@ -6,7 +6,7 @@ website:
   title: "Pune R UseR Group"
   navbar:
     tools:
-      - text: "<i class='fa-brands fa-meetup'></i> Meetup"
+      - text: "<i class='fab fa-meetup'></i> Meetup"
         href: https://meetup.com
       - icon: github
         href: https://github.com
@@ -32,6 +32,9 @@ format:
     theme: yeti
     css: styles.css
     toc: true
+
+resources:
+  - include-in-header.html
 
 editor: visual
 

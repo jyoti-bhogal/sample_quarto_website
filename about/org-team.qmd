@@ -4,8 +4,8 @@ title: "Organising Team"
 
 Meet the organising team:
 
-Person 1 \<image\> \<description\>
+Person 1 \<image\> \<description\> \<social handles\>
 
-Person 2 \<image\> \<description\>
+Person 2 \<image\> \<description\> \<social handles\>
 
 ...
