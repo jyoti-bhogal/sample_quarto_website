@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pune R UseR Group"
+  navbar:
+    tools:
+      - text: "<i class='fa-brands fa-meetup'></i> Meetup"
+        href: https://meetup.com
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https:linkedin.com
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu:
+          - href: about/mission.qmd
+            text: Mission
+          - href: about/org-team.qmd
+            text: Organising Team
+      - href: events/index.qmd
+        text: Events
+
+
+
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
